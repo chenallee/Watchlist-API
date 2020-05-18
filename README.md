@@ -3,6 +3,8 @@
 This app uses Sequelize and Node.js to set up a WatchList express app. The shows in the database are added by authenticated users, and the [TVMaze API](https://www.tvmaze.com/api) is used to provide further information on each title, so it doesn't need to be stored in our database. 
 The app is deployed on heroku under [https://immense-dawn-42979.herokuapp.com/](https://immense-dawn-42979.herokuapp.com/). In order to use all endpoints, [insomnia](https://insomnia.rest/) or another client should be used to sign in and send data. 
 
+Lee has revisted this idea using Mongo on the back end a React front end! Check out the [repo](https://github.com/chenallee/Watchlzts) to see the deployed site.
+
 # concept
 This app was made to allow users to track shows they want to watch, shows they're currently watching, and shows that they have already completed.
 
